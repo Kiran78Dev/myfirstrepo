@@ -10,7 +10,7 @@ public class AlphaApplication {
 		SpringApplication.run(AlphaApplication.class, args);
 		
 	  
-		System.out.println("HHHHIIIIIIIIIIII..........");
+		System.out.println("Server Started........");
 	}
 	
 }
